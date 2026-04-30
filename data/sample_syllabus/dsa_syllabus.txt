@@ -1,0 +1,73 @@
+COMPUTER SCIENCE - DATA STRUCTURES AND ALGORITHMS
+B.Tech Semester 3 Syllabus
+
+UNIT 1: Arrays and Strings
+- Introduction to arrays, 1D and 2D arrays
+- Array operations: insertion, deletion, searching
+- String manipulation, string reversal, palindrome check
+- Sliding window technique
+- Two pointer approach
+- Prefix sum arrays
+
+UNIT 2: Linked Lists
+- Singly linked list: creation, traversal, insertion, deletion
+- Doubly linked list operations
+- Circular linked list
+- Floyd's cycle detection algorithm
+- Reversing a linked list (iterative and recursive)
+- Merge two sorted linked lists
+
+UNIT 3: Stacks and Queues
+- Stack using arrays and linked lists
+- Applications: balanced parentheses, postfix evaluation
+- Queue: simple, circular, deque
+- Priority queue introduction
+- Stack using two queues and vice versa
+- Monotonic stack problems
+
+UNIT 4: Trees
+- Binary tree: properties and traversals (inorder, preorder, postorder)
+- Binary Search Tree: insert, delete, search
+- AVL trees and rotations
+- Heap data structure (min-heap, max-heap)
+- Heapify and heap sort
+- Level order traversal using BFS
+
+UNIT 5: Graphs
+- Graph representations: adjacency matrix and list
+- BFS and DFS traversal
+- Shortest path: Dijkstra's algorithm
+- Minimum spanning tree: Kruskal's and Prim's
+- Topological sort
+- Cycle detection in directed and undirected graphs
+
+UNIT 6: Sorting Algorithms
+- Bubble sort, Selection sort, Insertion sort
+- Merge sort and Quick sort (divide and conquer)
+- Counting sort, Radix sort (non-comparison)
+- Time and space complexity analysis
+- Best, worst, average case analysis
+
+UNIT 7: Dynamic Programming
+- Introduction to memoization and tabulation
+- Fibonacci series (DP approach)
+- 0/1 Knapsack problem
+- Longest Common Subsequence (LCS)
+- Longest Increasing Subsequence (LIS)
+- Coin change problem
+- Matrix chain multiplication
+
+UNIT 8: Searching and Hashing
+- Linear search vs Binary search
+- Binary search on answer
+- Hash tables and hash functions
+- Collision handling: chaining and open addressing
+- Applications of hashing
+
+EXAM PATTERN:
+- Total marks: 100
+- Section A (Short questions): 5 x 4 = 20 marks
+- Section B (Medium questions): 5 x 8 = 40 marks
+- Section C (Long questions): 2 x 20 = 40 marks
+- Important topics: DP, Trees, Graphs (always asked)
+- Practicals: 25 marks (based on implementation)
