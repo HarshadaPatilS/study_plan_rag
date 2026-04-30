@@ -127,15 +127,6 @@ Upload it in the UI to test the full pipeline.
 
 ---
 
-## 📈 Resume Talking Points
-
-- **"I built an end-to-end RAG pipeline"** — PDF → Chunks → Embeddings → FAISS → LLM → Output
-- **"I used FAISS for fast vector similarity search"** — not just API calls
-- **"I fine-tuned the retrieval query dynamically"** — based on user's weak topics
-- **"I deployed it as a live Streamlit app"** — shareable, demonstrable
-
----
-
 ## 🚀 Deploy for Free (Share with Interviewers!)
 
 ### Streamlit Cloud (recommended)
